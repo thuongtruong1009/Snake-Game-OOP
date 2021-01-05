@@ -1,4 +1,4 @@
-package codeThuongTruong.java;
+package snakeGame;
 
 import java.awt.Color;
 import javax.swing.BorderFactory;
