@@ -42,7 +42,7 @@ public class LoginPage extends JPanel {
 	@SuppressWarnings("static-access")
 	public LoginPage()  {
 		
-		ImageIcon image= new ImageIcon("D:\\THUONG TRUONG INC\\CODE PROGRAMMING\\Java Code\\Project Game 1 Java\\src\\sample.jpg");
+		ImageIcon image= new ImageIcon("D:\THUONG TRUONG INC\CODE PROGRAMMING\Java Code\Snackgame OOP (ITITIU19228-ITITIU19181)\src\background.jpg");
 		Image img= image.getImage();
 		Image temp_img= img.getScaledInstance(500, 300, Image.SCALE_SMOOTH);
 		image= new ImageIcon(temp_img);
@@ -102,7 +102,7 @@ public class LoginPage extends JPanel {
 		//frame
 		panel.setLayout(new FlowLayout());
 		frame.add(panel);
-		frame.setTitle("www.garena/snackgaming/oop.com=vi?");
+		frame.setTitle("Snack Game");
 		frame.setSize(500, 300);
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
