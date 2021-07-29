@@ -1,5 +1,4 @@
-# Snack-Game-
---> ITITIU19228-ITITIU19181
+# Snack-Game-OOP
 ## This project has the following changes:
 + Explore and learn how the Java language works through libraries and methods.
 + Familiarize yourself with object-oriented programming and its working principle.
