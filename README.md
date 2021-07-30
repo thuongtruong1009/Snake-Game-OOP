@@ -1,4 +1,5 @@
 # Snack-Game-OOP
+The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
 ## This project has the following changes:
 + Explore and learn how the Java language works through libraries and methods.
 + Familiarize yourself with object-oriented programming and its working principle.
