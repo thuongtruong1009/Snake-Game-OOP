@@ -1,0 +1,23 @@
+language: java
+sudo: false
+jdk: 
+  - oraclejdk15
+script:
+  - java --version
+  - ./mvnw clean install
+  - ./mvnw test
+  - jdk_switcher use openjdk8
+  - # do stuff with open Java 8
+before_cache:
+  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
+deploy:
+    provider: pages
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    on:
+      branch: gh_pages
