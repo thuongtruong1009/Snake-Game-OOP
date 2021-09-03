@@ -11,6 +11,6 @@ The final project on labory in my school. It request is use any language program
 + Introduce the Java-Swing and java.awt libraries through implementation and method inheritance its.
 + Improve your skills to resolve the problems in programming.
 + Practice and complete assignment Java-OOP projects in a university lab.
-## You can clone/fork/download or contribute and discuss them to develop. It can save it on history.
+## You can clone/fork/download or contribute and discuss them to develop. It can save it on release history.
 ## All problems or contact should take a mail to ititiu19228@student.hcmiu.edu.vn.
 ## Thank you!
