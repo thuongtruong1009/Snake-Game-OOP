@@ -13,6 +13,16 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "thuongtruong1009",
+      "name": "Tran Nguyen Thuong Truong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71834167?v=4",
+      "profile": "https://thuongtruonginc.wixsite.com/portfolio",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
