@@ -1,8 +1,13 @@
 # Snack-Game-OOP
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+![CI](https://github.com/thuongtruong1009/snake-game-oop/actions/workflows/ci.yml/badge.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
+
+
+##### The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
 ## We used
 + Java7 and JavaSwing basic.
 + Function, loop, algorithms in Java.
