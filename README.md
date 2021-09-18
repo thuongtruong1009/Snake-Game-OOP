@@ -1,4 +1,7 @@
 # Snack-Game-OOP
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
 ## We used
 + Java7 and JavaSwing basic.
@@ -14,3 +17,23 @@ The final project on labory in my school. It request is use any language program
 ## You can clone/fork/download or contribute and discuss them to develop. It can save it on release history.
 ## All problems or contact should take a mail to ititiu19228@student.hcmiu.edu.vn.
 ## Thank you!
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/font-end-pro"><img src="https://avatars.githubusercontent.com/u/88624053?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codev TA</b></sub></a><br /><a href="#ideas-font-end-pro" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
