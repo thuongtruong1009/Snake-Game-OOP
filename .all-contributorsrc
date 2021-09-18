@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "font-end-pro",
+      "name": "Codev TA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88624053?v=4",
+      "profile": "https://github.com/font-end-pro",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Snake-Game-OOP",
+  "projectOwner": "thuongtruong1009",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
