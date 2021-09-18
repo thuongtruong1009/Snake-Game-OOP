@@ -1,4 +1,3 @@
-# Snack-Game-OOP
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
@@ -6,9 +5,12 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<div align="center">
+  <h1>SNAKE GAME OOP</h1>
+</div>
 
 ##### The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
-## We used
+## We used:
 + Java7 and JavaSwing basic.
 + Function, loop, algorithms in Java.
 + Refferent on StackOverflow and Youtube BroCode chanel.
@@ -19,12 +21,8 @@
 + Introduce the Java-Swing and java.awt libraries through implementation and method inheritance its.
 + Improve your skills to resolve the problems in programming.
 + Practice and complete assignment Java-OOP projects in a university lab.
-## You can clone/fork/download or contribute and discuss them to develop. It can save it on release history.
-## All problems or contact should take a mail to ititiu19228@student.hcmiu.edu.vn.
-## Thank you!
 
 ## Contributors ✨
-
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -42,5 +40,16 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+### You can clone/fork/download or contribute and discuss them to develop. It can save it on release history.
+### All problems or contact should take a mail to ititiu19228@student.hcmiu.edu.vn.
+
+### 🙏 Support me:
+[![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
+<a href="https://www.paypal.me/thuongtruong1009">
+  <img height="25" marginTop="10" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Blue/Short.png">
+</a>
+<a href='https://ko-fi.com/thuongtruong1009' target='_blank'><img height='25' style='border:0px;height:28px;color:blue' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  
+### Thank you!_____________________________________________________________________________________________
