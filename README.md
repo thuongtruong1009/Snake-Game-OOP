@@ -1,6 +1,6 @@
 # Snack-Game-OOP
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 2 week. I sometimes make refferrent on the internet but they seem like very difficult. 
 ## We used
@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/font-end-pro"><img src="https://avatars.githubusercontent.com/u/88624053?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codev TA</b></sub></a><br /><a href="#ideas-font-end-pro" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="https://github.com/thuongtruong1009/Snake-Game-OOP/commits?author=thuongtruong1009" title="Code">💻</a> <a href="#ideas-thuongtruong1009" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://imgbot.net"><img src="https://avatars.githubusercontent.com/u/31427850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imgbot</b></sub></a><br /><a href="#data-ImgBotApp" title="Data">🔣</a> <a href="#tool-ImgBotApp" title="Tools">🔧</a></td>
   </tr>
 </table>
 
