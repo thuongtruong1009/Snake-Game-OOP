@@ -21,19 +21,3 @@ jobs:
       with:
         java-version: '11'
         distribution: 'adopt'
-    - name: Build with Ant
-      run: ant -noinput -buildfile build.xml
-    - name: Setup Java JDK
-      uses: actions/setup-java@v2.3.0
-      with:
-        java-version: Java SE 10
-        java-package: jdk
-        architecture: x64
-        server-id: github     
-        server-username: $GITHUB_ACTOR
-        server-password: $GITHUB_TOKEN    
-        settings-path: ~/.m2
-        overwrite-settings: true
-        gpg-passphrase: $GPG_PASSPHRASE
-        cache: maven
-        job-status: ${{ job.status }}
