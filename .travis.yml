@@ -1,6 +1,6 @@
 language: java
 sudo: false
-jdk: 
+jdk:
   - oraclejdk15
 script:
   - java --version
