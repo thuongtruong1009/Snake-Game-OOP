@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 ![CI](https://github.com/thuongtruong1009/snake-game-oop/actions/workflows/ci.yml/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
+<img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center" display="flex">
@@ -26,7 +27,7 @@
 
 ## ScreenShots
 <div align="center">
-  <img width="680" src="https://user-images.githubusercontent.com/71834167/133916235-1af65ce2-a33d-4bb5-b881-4592fc630c20.png" />
+  <img width="600" src="https://user-images.githubusercontent.com/71834167/133916235-1af65ce2-a33d-4bb5-b881-4592fc630c20.png" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916023-014a0c9e-3ec6-41c3-b2a4-c150700a3a3b.png" alt="playing_image" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916125-be5fe379-e608-4b53-a9dd-4d7bc5547d57.png" alt="game_over" />
 </div>
@@ -51,16 +52,53 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-### Tool and reference:
+## How to contribute:
+<!-- + Step 1-2 (star this repo and create new file):
+![image](https://user-images.githubusercontent.com/71834167/134616602-79354dff-e76a-4ec1-b8ff-3633ce52967c.png)
++ Step 3 (make pull request after composing):
+![image](https://user-images.githubusercontent.com/71834167/134616898-56926e97-2f34-4a87-945b-af48cc20b990.png)
++ Step 4 (make a pull request):
+![image](https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png)
++ Step 5 (add your information):
+![image](https://user-images.githubusercontent.com/71834167/134617347-7065e4c6-fba9-4bf8-8d6a-90464c0641fc.png)
+ -->
+<table>
+  <h4>• Step 1-2 (star this repo and create new file):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134616602-79354dff-e76a-4ec1-b8ff-3633ce52967c.png" width="600px;" alt=""/><br /><sub><b>Step 1-2</b></sub></a><br /></td>
+  </tr>
+</table>
+<table>
+  <h4>• Step 3 (make pull request after composing):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134616898-56926e97-2f34-4a87-945b-af48cc20b990.png" width="600px;" alt=""/><br /><sub><b>Step 3</b></sub></a><br /></td>
+  </tr>
+</table>
+<table>
+  <h4>• Step 4 (make a pull request):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
+  </tr>
+</table>
+<table>
+  <h4>• Step 5 (add your information):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617347-7065e4c6-fba9-4bf8-8d6a-90464c0641fc.png" width="600px;" alt=""/><br /><sub><b>Step 5</b></sub></a><br /></td>
+  </tr>
+</table>
+<h4>• Wait a few times to receive the respond email and you will be added on list contributor</h4>
+
+## Join with me: 
++ #### Code together in the development to build perfect products
++ #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
++ #### Any problem, should contact me via ititiu19228@student.hcmiu.edu.vn
++ #### Following MIT LICENSE about @Copyright of https://github.com/thuongtruong1009, 2021
+
+## Tool and reference:
 + Snake image https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1
 + IDE or text-editor: Visual Studio Code, Eclipse, Netbeans, IntelliJ...
 + Learning front-end full course at 
 + Get support at https://oracle.org/java/
-
-#### --> Join me in the development to build perfect products
-#### --> You can clone/fork/download or contribute and discuss them to develop. It can save it on release history.
-#### --> Any problem, should contact me via ititiu19228@student.hcmiu.edu.vn
-#### --> MIT LICENSE @Copyright of https://github.com/thuongtruong1009, 2021
 
 ### 🙏 Support me:
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
