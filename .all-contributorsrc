@@ -33,6 +33,15 @@
         "data",
         "tool"
       ]
+    },
+    {
+      "login": "0826240270",
+      "name": "Phát Đỗ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51843029?v=4",
+      "profile": "http://tphatprofile.somee.com",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

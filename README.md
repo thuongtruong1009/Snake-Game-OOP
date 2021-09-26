@@ -1,9 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
-![CI](https://github.com/thuongtruong1009/snake-game-oop/actions/workflows/ci.yml/badge.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
-<img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center" display="flex">
@@ -49,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/font-end-pro"><img src="https://avatars.githubusercontent.com/u/88624053?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codev TA</b></sub></a><br /><a href="#ideas-font-end-pro" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://thuongtruonginc.wixsite.com/portfolio"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="https://github.com/thuongtruong1009/Snake-Game-OOP/commits?author=thuongtruong1009" title="Code">💻</a> <a href="#ideas-thuongtruong1009" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://imgbot.net"><img src="https://avatars.githubusercontent.com/u/31427850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imgbot</b></sub></a><br /><a href="#data-ImgBotApp" title="Data">🔣</a> <a href="#tool-ImgBotApp" title="Tools">🔧</a></td>
+    <td align="center"><a href="http://tphatprofile.somee.com"><img src="https://avatars.githubusercontent.com/u/51843029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Phát Đỗ</b></sub></a><br /><a href="#ideas-0826240270" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
