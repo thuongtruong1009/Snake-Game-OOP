@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 ![CI](https://github.com/thuongtruong1009/snake-game-oop/actions/workflows/ci.yml/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
+<img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center" display="flex">
