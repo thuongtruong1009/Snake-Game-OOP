@@ -1,6 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a2df4efc50df4576abab67ff747ba0be)](https://app.codacy.com/gh/thuongtruong1009/Snake-Game-OOP?utm_source=github.com&utm_medium=referral&utm_content=thuongtruong1009/Snake-Game-OOP&utm_campaign=Badge_Grade_Settings)
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div align="center" display="flex">
@@ -48,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://imgbot.net"><img src="https://avatars.githubusercontent.com/u/31427850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imgbot</b></sub></a><br /><a href="#data-ImgBotApp" title="Data">🔣</a> <a href="#tool-ImgBotApp" title="Tools">🔧</a></td>
     <td align="center"><a href="http://tphatprofile.somee.com"><img src="https://avatars.githubusercontent.com/u/51843029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Phát Đỗ</b></sub></a><br /><a href="#ideas-0826240270" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/tung01673641696"><img src="https://avatars.githubusercontent.com/u/50195044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tung01673641696</b></sub></a><br /><a href="#ideas-tung01673641696" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://www.codacy.com"><img src="https://avatars.githubusercontent.com/u/23704769?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codacy Badger</b></sub></a><br /><a href="https://github.com/thuongtruong1009/Snake-Game-OOP/commits?author=codacy-badger" title="Tests">⚠️</a> <a href="https://github.com/thuongtruong1009/Snake-Game-OOP/issues?q=author%3Acodacy-badger" title="Bug reports">🐛</a> <a href="#data-codacy-badger" title="Data">🔣</a></td>
   </tr>
 </table>
 
