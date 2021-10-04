@@ -6,7 +6,10 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a2df4efc50df4576abab67ff747ba0be)](https://app.codacy.com/gh/thuongtruong1009/Snake-Game-OOP?utm_source=github.com&utm_medium=referral&utm_content=thuongtruong1009/Snake-Game-OOP&utm_campaign=Badge_Grade_Settings)
 ![CI](https://github.com/thuongtruong1009/snake-game-oop/actions/workflows/ci.yml/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop/badge)](https://www.codefactor.io/repository/github/thuongtruong1009/snake-game-oop)
+![GitHub commit checks state](https://img.shields.io/github/checks-status/thuongtruong1009/Snake-Game-OOP/main)
 <img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thuongtruong1009/Snake-Game-OOP?color=87CEFA)
+![Lines of code](https://img.shields.io/tokei/lines/github/thuongtruong1009/Snake-Game-OOP?color=%236495ED)
 
 <div align="center" display="flex">
   <h1>SNAKE GAME OOP <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" /></h1>
