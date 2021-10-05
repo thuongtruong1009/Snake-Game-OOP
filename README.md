@@ -27,7 +27,7 @@
 + Java Core 8 and Java Swing basic.
 + Function, loop, algorithms in Java.
 + Refferent on StackOverflow and Youtube BroCode chanel.
-+ Thank you @TP-O supported us in this project.
++ Thank you [@TP-O](hhtps://github.com/TP-O) supported us in this project.
 
 ## 🚀 This project has the following changes
 + Explore and learn how the Java language works through libraries and methods.
