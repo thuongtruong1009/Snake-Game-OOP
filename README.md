@@ -114,7 +114,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 + Learning front-end full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
 + Get support at [Oracle](https://oracle.org/java)
 
-### 🙏 Support me
+### ❤️ Support me
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
 <a href="https://www.paypal.me/thuongtruong1009">
   <img height="25" marginTop="10" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Blue/Short.png">
