@@ -87,12 +87,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
   </tr>
 </table>
-<table>
-  <h4>• Step 5 (add your information):</h4>
-  <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617347-7065e4c6-fba9-4bf8-8d6a-90464c0641fc.png" width="600px;" alt=""/><br /><sub><b>Step 5</b></sub></a><br /></td>
-  </tr>
-</table>
 <h4>--> 💌 Wait a few times to receive the respond email and you will be added on list contributors.</h4>
 
 ## 🤝 Join with me
