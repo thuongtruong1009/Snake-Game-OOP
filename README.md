@@ -68,29 +68,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## 📝How to contribute
-<!-- + Step 1-2 (star this repo and create new file):
-![image](https://user-images.githubusercontent.com/71834167/134616602-79354dff-e76a-4ec1-b8ff-3633ce52967c.png)
-+ Step 3 (make pull request after composing):
-![image](https://user-images.githubusercontent.com/71834167/134616898-56926e97-2f34-4a87-945b-af48cc20b990.png)
-+ Step 4 (make a pull request):
-![image](https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png)
-+ Step 5 (add your information):
-![image](https://user-images.githubusercontent.com/71834167/134617347-7065e4c6-fba9-4bf8-8d6a-90464c0641fc.png)
- -->
+
 <table>
-  <h4>• Step 1-2 (star this repo and create new file):</h4>
+  <h4>• Step 1 (star this repo):</h4>
   <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134616602-79354dff-e76a-4ec1-b8ff-3633ce52967c.png" width="600px;" alt=""/><br /><sub><b>Step 1-2</b></sub></a><br /></td>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136375747-bd413b21-5dd2-455a-a53f-a689b5720e81.png" width="600px;" alt=""/><br /><sub><b>Step 1</b></sub></a><br /></td>
   </tr>
 </table>
 <table>
-  <h4>• Step 3 (make pull request after composing):</h4>
+  <h4>• Step 2 (Add your information in this file):</h4>
   <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134616898-56926e97-2f34-4a87-945b-af48cc20b990.png" width="600px;" alt=""/><br /><sub><b>Step 3</b></sub></a><br /></td>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136376125-58c07ac8-17c6-45f6-a7a0-7934934b2e00.png" width="600px;" alt=""/><br /><sub><b>Step 2</b></sub></a><br /></td>
   </tr>
 </table>
 <table>
-  <h4>• Step 4 (make a pull request):</h4>
+  <h4>• Step 3 (Create a pull request):</h4>
   <tr>
     <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
   </tr>
