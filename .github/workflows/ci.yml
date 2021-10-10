@@ -44,4 +44,4 @@ jobs:
         with:
           domain: ${{github.repository_owner}} 
       - name: Publish Results to Testspace
-        run: testspace "[${{ github.workflow }}/${{ github.job }}]./testcontent/*.xml"
+        run: testspace "path/to/*.xml"
