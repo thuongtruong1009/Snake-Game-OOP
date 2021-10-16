@@ -38,7 +38,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      
+
       - name: Testspace client install & config
       - uses: testspace-com/setup-testspace@v1
         with:
