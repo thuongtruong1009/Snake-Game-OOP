@@ -42,6 +42,69 @@
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916023-014a0c9e-3ec6-41c3-b2a4-c150700a3a3b.png" alt="playing_image" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916125-be5fe379-e608-4b53-a9dd-4d7bc5547d57.png" alt="game_over" />
 </div>
+
+
+## 📝How to contribute to this project
+
+You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
+
+#### a) Commit from local
++ Star this repository (Click the star button in the top right of this page)
++ Fork this repository (Click the Fork button in the top right of this page, after click to your profile image)
++ Clone your fork down to your local machine
+```markdown
+git clone https://github.com/your-username/NAME-CARD_hacktoberfest.git
+```
++ Create a branch
+```markdown
+git checkout -b branch-name
+```
++ Make your changes (The task is described below)
++ Commit and push
+```markdown
+git add .
+git commit -m "Commit message"
+git push origin branch-name
+```
++ Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
++ Wait for your PR to be reviewed and merged approval.
++ You will be added to list contributors. See at [here](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
+
+#### b) Automatically nominate you to the list of collaborators
+<table>
+  <h4>• Step 1 (star this repo):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136375747-bd413b21-5dd2-455a-a53f-a689b5720e81.png" width="600px;" alt=""/><br /><sub><b>Step 1</b></sub></a><br /></td>
+  </tr>
+</table>
+<table>
+  <h4>• Step 2 (Add your information at CONTRIBUTING.md file):</h4>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136376125-58c07ac8-17c6-45f6-a7a0-7934934b2e00.png" width="600px;" alt=""/><br /><sub><b>Step 2</b></sub></a><br /></td>
+  </tr>
+</table>
+<table>
+  <h4>• Step 3 (Add your information at CONTRIBUTING.md file):</h4>
+  <p>(After open this file you have a interface like the below image).</p>
+  <tr>
+    <td align="center"><a><img src="./media/step3.jpg" width="660px;" alt=""/><br /><sub><b>Step 3</b></sub></a><br /></td>
+  </tr>
+</table>
+<p>There are 4 table-field, you must added in the correct format of them. (First one is for order, the second one is for your Github display name, the third one is for your link to github username & the fourth is for your activity for this project)</p>
+<table>
+  <h4>• Step 4 (Create a pull request):</h4>
+  <p>(After propose commit, you must create new Pull request to be approvaled)</p>
+  <tr>
+    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
+  </tr>
+</table>
+<h4>• Finally</h4>
+•--> 💌 Wait a few times to receive the respond email and you will be added on list contributors.
+
+•--> Check at [CONTRIBUTING.md](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
+
++ Visit the CODE_OF_CONDUCT.md file to see the guidelines...<br/>
++ Stay safe & Keep contributing
                                                                                                                                     
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -69,28 +132,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-## 📝How to contribute
-
-<table>
-  <h4>• Step 1 (star this repo):</h4>
-  <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136375747-bd413b21-5dd2-455a-a53f-a689b5720e81.png" width="600px;" alt=""/><br /><sub><b>Step 1</b></sub></a><br /></td>
-  </tr>
-</table>
-<table>
-  <h4>• Step 2 (Add your information in this file):</h4>
-  <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136376125-58c07ac8-17c6-45f6-a7a0-7934934b2e00.png" width="600px;" alt=""/><br /><sub><b>Step 2</b></sub></a><br /></td>
-  </tr>
-</table>
-<table>
-  <h4>• Step 3 (Create a pull request):</h4>
-  <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
-  </tr>
-</table>
-<h4>--> 💌 Wait a few times to receive the respond email and you will be added on list contributors.</h4>
 
 ## 🤝 Join with me
 + #### Code together in the development to build perfect products.
