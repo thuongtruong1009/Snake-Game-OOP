@@ -72,6 +72,16 @@
         "bug",
         "mentoring"
       ]
+    },
+    {
+      "login": "wpolanco",
+      "name": "wpolanco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4671672?v=4",
+      "profile": "https://github.com/wpolanco",
+      "contributions": [
+        "ideas",
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 7,
