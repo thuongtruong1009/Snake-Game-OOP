@@ -142,11 +142,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 🔧 Tool and reference
 + Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
 + IDE or text-editor: [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ IDEA](https://www.jetbrains.com/idea/)...
-+ Learning front-end full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
-+ Get support at [Oracle](https://oracle.org/java)
++ Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
++ Get support about Java language at [Oracle](https://oracle.org/java)
 
 ### ❤️ Support me
 + We are looking for sponsors to join us to have better community reach and impact.
+
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
 <a href="https://www.paypal.me/thuongtruong1009">
   <img height="25" marginTop="10" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Blue/Short.png">
