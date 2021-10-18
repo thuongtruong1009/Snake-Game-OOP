@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thuongtruong1009/Snake-Game-OOP?color=87CEFA)
 ![Lines of code](https://img.shields.io/tokei/lines/github/thuongtruong1009/Snake-Game-OOP?color=%236495ED)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/thuongtruong1009/Snake-Game-OOP/discussions)
+[![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thuongtruong1009/Snake-Game-OOP/issues)
 
 <div align="center" display="flex">
   <h1>SNAKE GAME OOP <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" /></h1>
@@ -25,7 +27,8 @@
 
 ## 💻 We used
 + Java Core 8 and Java Swing basic.
-+ Function, loop, algorithms in Java.
++ Function, loop, algorithms, implement, extend, Thread in Java.
++ UML diagram in programming.
 + Refferent on StackOverflow and Youtube BroCode chanel.
 + Thank you [@TP-O](https://github.com/TP-O) supported us in this project.
 
@@ -33,19 +36,28 @@
 + Explore and learn how the Java language works through libraries and methods.
 + Familiarize yourself with object oriented programming and its working principle.
 + Introduce the Java Swing and java.awt libraries through implementation and method inheritance its.
++ An overview of Design patterns and their operation diagrams.
++ Using the UML diagram to analys codes and information processing.
++ Understand how multithreading works and manage it.
 + Improve your skills to resolve the problems in programming.
 + Practice and complete assignment Java OOP projects in a university lab.
 
-## 📸 Screenshot images
+## 📸 How it looks
 <div align="center">
   <img width="600" src="https://user-images.githubusercontent.com/71834167/133916235-1af65ce2-a33d-4bb5-b881-4592fc630c20.png" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916023-014a0c9e-3ec6-41c3-b2a4-c150700a3a3b.png" alt="playing_image" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916125-be5fe379-e608-4b53-a9dd-4d7bc5547d57.png" alt="game_over" />
 </div>
 
+## How to play this game
+* Fork and clone this project to local destop.
+* Run it by IDE for Java which JRE and JDK installed.
+* Choose level at level button and click new game button to play new.
+* Start playing and control the snake with the arrows keys <code>↑</code><code>↓</code><code>←</code><code>→</code>.
+* Experience the beautiful interface and attractive sound.
+* if you lose the game. Please press the start new button to start playing again or press the red x button to exit.
 
 ## 📝How to contribute to this project
-
 You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
 
 #### a) Commit from local
@@ -142,6 +154,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 🔧 Tool and reference
 + Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
 + IDE or text-editor: [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ IDEA](https://www.jetbrains.com/idea/)...
++ Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java)
 + Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
 + Get support about Java language at [Oracle](https://oracle.org/java)
 
