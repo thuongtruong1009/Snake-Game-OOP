@@ -29,14 +29,14 @@
 + Refferent on StackOverflow and Youtube BroCode chanel.
 + Thank you [@TP-O](https://github.com/TP-O) supported us in this project.
 
-## 🚀 This project has the following changes
+## 🚀 Some of our core summaries
 + Explore and learn how the Java language works through libraries and methods.
 + Familiarize yourself with object oriented programming and its working principle.
 + Introduce the Java Swing and java.awt libraries through implementation and method inheritance its.
 + Improve your skills to resolve the problems in programming.
 + Practice and complete assignment Java OOP projects in a university lab.
 
-## 📸 ScreenShots
+## 📸 Screenshot images
 <div align="center">
   <img width="600" src="https://user-images.githubusercontent.com/71834167/133916235-1af65ce2-a33d-4bb5-b881-4592fc630c20.png" />
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916023-014a0c9e-3ec6-41c3-b2a4-c150700a3a3b.png" alt="playing_image" />
@@ -146,6 +146,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 + Get support at [Oracle](https://oracle.org/java)
 
 ### ❤️ Support me
++ We are looking for sponsors to join us to have better community reach and impact.
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
 <a href="https://www.paypal.me/thuongtruong1009">
   <img height="25" marginTop="10" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Blue/Short.png">
