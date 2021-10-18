@@ -53,7 +53,7 @@ You can contribute to this project very easily by following a few steps. Don't w
 + Fork this repository (Click the Fork button in the top right of this page, after click to your profile image)
 + Clone your fork down to your local machine
 ```markdown
-git clone https://github.com/your-username/NAME-CARD_hacktoberfest.git
+git clone https://github.com/your-username/Snake-Game-OOP.git
 ```
 + Create a branch
 ```markdown
