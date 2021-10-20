@@ -1,13 +1,9 @@
 language: java
 sudo: false
-jdk: 
-  - oraclejdk15
+jdk: oraclejdk15
 script:
   - java --version
-  - ./mvnw clean install
-  - ./mvnw test
   - jdk_switcher use openjdk8
-  - # do stuff with open Java 8
 before_cache:
   - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
   - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
