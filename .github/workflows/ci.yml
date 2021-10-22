@@ -39,9 +39,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Testspace client install & config
-      - uses: testspace-com/setup-testspace@v1
-        with:
-          domain: ${{github.repository_owner}}
-      - name: Publish Results to Testspace
-        run: testspace "path/to/*.xml"
+#       - name: Testspace client install & config
+#       - uses: testspace-com/setup-testspace@v1
+#         with:
+#           domain: ${{github.repository_owner}}
+#       - name: Publish Results to Testspace
+#         run: testspace "path/to/*.xml"
