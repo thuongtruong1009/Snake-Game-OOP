@@ -65,13 +65,14 @@
 * Fork and clone this project to local destop.
 * Run it by IDE for Java which JRE and JDK installed.
 * Choose level at level button and click new game button to play new.
-* Experience the beautiful interface and attractive sound.
-* if you over the game. Please press the start new button to start playing again or press the red x button to exit.
 * Start playing and control the snake with the arrows keys "**UP**", "**DOWN**", "**LEFT**" and "**RIGHT**", simulating a user interaction with the game.
 
 | <code>↑</code> | <code>↓</code> | <code>←</code> | <code>→</code> |
 | -- | ---- | ---- | ----- |
 | UP | DOWN | LEFT | RIGHT |
+
+* Experience the beautiful interface and attractive sound.
+* f you over the game. Please press the start new button to start playing again or press the red x button to exit.
 
 ## 📝How to contribute to this project
 You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
@@ -126,13 +127,15 @@ git push origin branch-name
     <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
   </tr>
 </table>
-<h4>• Finally</h4>
-•--> 💌 Wait a few times to receive the respond email and you will be added on list contributors.
 
-•--> Check at [CONTRIBUTING.md](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
+#### c) Finally
 
-+ Visit the CODE_OF_CONDUCT.md file to see the guidelines...<br/>
-+ Stay safe & Keep contributing
++ --> 💌 Wait a few times to receive the respond email and you will be added on list contributors.
+
++ --> Check at [CONTRIBUTING.md](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md).
+
++ Visit the CODE_OF_CONDUCT.md file to see more about guidelines...<br/>
++ Stay safe & Keep contributing.
                                                                                                                                     
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
