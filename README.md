@@ -18,6 +18,17 @@
   <img border="1px solid green" width="160" src="https://user-images.githubusercontent.com/71834167/133915546-a6c6f29c-0c82-422b-a9cd-ed7aafbc2842.png" alt="snake_image"/>
 </div>
 
+## 🎴 What's the snake game
+* Snake is a game in which the players need to think about controlling snake to explore an map and catch the appples and handle the situation to avoid hitting with the any obstacle or itself.
+* Every time the snake catches an apple, its size increases and score of user will also be added 1 point.
+* If the snake hits its tail or a wall, the game will be ended.
+
+| Action | Reward |
+|---|---|
+| Catch the apple | + 1 |
+| Hits bomb | - 1 |
+| Hits tail or wall | game-over |
+
 ## 📌 First require
 + The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 3 week.
 + Make report speech format in docx or pdf.
@@ -25,10 +36,11 @@
 + Show detail diagram of project structure.
 + I sometimes make refer on the internet but they seem like very difficult. 
 
-## 💻 We used
+## 🎨 We used
 + Java Core 8 and Java Swing basic.
 + Function, loop, algorithms, implement, extend, Thread in Java.
 + UML diagram in programming.
++ Design pattern (although it hasn't really been applied completely, but overall I'm trying to make it happen)
 + Refferent on StackOverflow and Youtube BroCode chanel.
 + Thank you [@TP-O](https://github.com/TP-O) supported us in this project.
 
@@ -53,9 +65,13 @@
 * Fork and clone this project to local destop.
 * Run it by IDE for Java which JRE and JDK installed.
 * Choose level at level button and click new game button to play new.
-* Start playing and control the snake with the arrows keys <code>↑</code><code>↓</code><code>←</code><code>→</code>.
 * Experience the beautiful interface and attractive sound.
-* if you lose the game. Please press the start new button to start playing again or press the red x button to exit.
+* if you over the game. Please press the start new button to start playing again or press the red x button to exit.
+* Start playing and control the snake with the arrows keys "**UP**", "**DOWN**", "**LEFT**" and "**RIGHT**", simulating a user interaction with the game.
+
+| <code>↑</code> | <code>↓</code> | <code>←</code> | <code>→</code> |
+| -- | ---- | ---- | ----- |
+| UP | DOWN | LEFT | RIGHT |
 
 ## 📝How to contribute to this project
 You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
@@ -149,14 +165,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 + #### Code together in the development to build perfect products.
 + #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
 + #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn)
-+ #### Following ECL-2.0 LICENSE about @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
 
-## 🔧 Tool and reference
+## 💻 References
 + Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
 + IDE or text-editor: [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ IDEA](https://www.jetbrains.com/idea/)...
-+ Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java)
++ Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java).
 + Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
-+ Get support about Java language at [Oracle](https://oracle.org/java)
++ Get support about Java language at [Oracle](https://oracle.org/java).
+
+## 📰 License
++ ##### This project is distributed under the [ECL-2.0 License](LICENSE).
++ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
 
 ### ❤️ Support me
 + We are looking for sponsors to join us to have better community reach and impact.
