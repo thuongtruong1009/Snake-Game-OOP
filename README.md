@@ -74,6 +74,12 @@
 * Experience the beautiful interface and attractive sound.
 * f you over the game. Please press the start new button to start playing again or press the red x button to exit.
 
+## Management folder structure
++ Benefits: Scope, Clarity, Collaboration, Consistency.
++ General overview folder of a project.
++ With proposing that everyone can quickly to understand the logic behind which they need.
++ Easily for manage the project progression.
+
 ## 📝How to contribute to this project
 You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
 
