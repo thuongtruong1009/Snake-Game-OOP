@@ -138,11 +138,11 @@ git push origin branch-name
 
 + --> 💌 Wait a few times to receive the respond email and you will be added on list contributors.
 
-+ --> Check at [CONTRIBUTING.md](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md).
++ --> Check at [CONTRIBUTING.md](CONTRIBUTING).
 
-+ Visit the CODE_OF_CONDUCT.md file to see more about guidelines...<br/>
++ Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) file to see more about guidelines...<br/>
 + Stay safe & Keep contributing.
-                                                                                                                                    
+      
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
