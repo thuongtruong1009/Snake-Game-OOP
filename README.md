@@ -85,7 +85,7 @@ root
 |
 ├── .github (folder)
 |    ├── workflows (folder)
-|    └── config.yml
+|    └── FUNDING.yml
 |
 ├── src
 │   ├── icons (folder)
