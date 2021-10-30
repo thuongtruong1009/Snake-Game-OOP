@@ -61,7 +61,7 @@
   <img width="300" src="https://user-images.githubusercontent.com/71834167/133916125-be5fe379-e608-4b53-a9dd-4d7bc5547d57.png" alt="game_over" />
 </div>
 
-## How to play this game
+## ⚔ How to play this game
 * Fork and clone this project to local destop.
 * Run it by IDE for Java which JRE and JDK installed.
 * Choose level at level button and click new game button to play new.
@@ -74,36 +74,135 @@
 * Experience the beautiful interface and attractive sound.
 * f you over the game. Please press the start new button to start playing again or press the red x button to exit.
 
-## Management folder structure
+## 📁 Management folder structure
 + Benefits: Scope, Clarity, Collaboration, Consistency.
 + General overview folder of a project.
 + With proposing that everyone can quickly to understand the logic behind which they need.
 + Easily for manage the project progression.
+```
+root
+├── circleci (folder)
+│    └── config.yml
+|
+├── .github (folder)
+|    ├── workflows (folder)
+│    |     ├── ant.yml
+│    |     ├── ci.yml
+│    |     ├── jobs.yml
+│    |     ├── matrix.yml
+│    |     ├── yetanother.yml
+│    |     ├── greetings.yml
+│    |     └── config.yml
+|    └── config.yml
+├── media (folder)
+├── src
+│   ├── icons (folder)
+│   ├── background (folder)
+│   ├── buttons (folder)
+│   ├── images (folder)
+│   ├── musics (folder)
+│   │
+│   ├── utils (folder)
+│   │    ├── version
+│   │    ├── refer
+│   │    └── DataType
+│   │
+│   ├── root (folder)
+│   │    ├── ArrowKey
+│   │    ├── ISnake
+│   │    └── Root
+│   │
+│   ├── files (folder)
+│   │    ├── Read
+│   │    ├── Write
+│   │    ├── Item
+│   │    ├── DownLoad
+│   │    ├── ImageResizer
+│   │    ├── licenseText
+│   │    ├── writeData
+│   │    └── dataScore
+│   │
+│   ├── testing (folder)
+│   │    ├── testPanel
+│   │    ├── testCustomerPane
+│   │    └── testMediaLoader
+│   │
+│   └── thuongtruong1009 (folder)
+│        ├── GamePanel
+│        ├── CustomerPane
+│        ├── mediaLoader
+│        ├── SetupData
+│        ├── Frame
+│        └── Main
+│
+├── .classpath
+├── .project
+├── Report
+├── UML Diagram
+├── SlidePowerPoint
+├── .gitignore
+├── .travis.yml
+├── _config.yml
+├── emoji-key.md
+├── CODE_OF_CONDUCT
+├── CONTRIBUTING
+└──  README.MD
+```
 
 ## 📝How to contribute to this project
-You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
+*Want to add your project to the repo?
+*You can contribute to this project very easily by following a few guidelines. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
 
 #### a) Commit from local
 + Star this repository (Click the star button in the top right of this page)
 + Fork this repository (Click the Fork button in the top right of this page, after click to your profile image)
-+ Clone your fork down to your local machine
++ Clone your forked copy down to your local machine
 ```markdown
-git clone https://github.com/your-username/Snake-Game-OOP.git
+git clone https://github.com/<your_username>/Snake-Game-OOP.git
 ```
-+ Create a branch
++ Navigate to the project directory
 ```markdown
-git checkout -b branch-name
+cd Dope-Github-Readmes
 ```
-+ Make your changes (The task is described below)
-+ Commit and push
++ Add a reference(remote) to the original repository.
+```markdown
+git remote add upstream https://github.com/thuongtruong1009/Snake-Game-OOP.git
+```
++ Check the remotes for this repository.
+```markdown
+git remote -v
+```
++ Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+```markdown
+git pull upstream main
+```
++ Create a new branch
+```markdown
+git checkout -b <your branch-name>
+```
++ Track your changes ✔. (The task is described below)
 ```markdown
 git add .
-git commit -m "Commit message"
-git push origin branch-name
 ```
-+ Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
-+ Wait for your PR to be reviewed and merged approval.
-+ You will be added to list contributors. See at [here](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
+Commit your changes .
+```markdown
+git commit -m "Commit message"
+```
++ Push the committed changes in your feature branch to your remote repo.
+```markdown
+git push -u origin <your_branch_name>
+```
++ To create a pull request, click on <code>Create Pull Request</code> (Click the New Pull Request button located at the top of your repo).
++ Add appropriate title and description to your pull request explaining your changes and efforts done.
+
++ --> You have made a PR to this projects-showcase 💥 . 
+
++ --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [here](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
+
++ --> Check at [CONTRIBUTING.md](CONTRIBUTING).
+
++ Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) file to see more about guidelines...<br/>
++ Stay safe & Keep contributing.
 
 #### b) Automatically nominate you to the list of collaborators
 <table>
@@ -133,15 +232,6 @@ git push origin branch-name
     <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
   </tr>
 </table>
-
-#### c) Finally
-
-+ --> 💌 Wait a few times to receive the respond email and you will be added on list contributors.
-
-+ --> Check at [CONTRIBUTING.md](CONTRIBUTING).
-
-+ Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) file to see more about guidelines...<br/>
-+ Stay safe & Keep contributing.
       
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
