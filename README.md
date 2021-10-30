@@ -11,7 +11,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thuongtruong1009/Snake-Game-OOP?color=87CEFA)
 ![Lines of code](https://img.shields.io/tokei/lines/github/thuongtruong1009/Snake-Game-OOP?color=%236495ED)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/thuongtruong1009/Snake-Game-OOP/discussions)
-[![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thuongtruong1009/Snake-Game-OOP/issues)
 
 <div align="center" display="flex">
   <h1>SNAKE GAME OOP <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" /></h1>
@@ -94,7 +93,7 @@ root
 │    |     ├── greetings.yml
 │    |     └── config.yml
 |    └── config.yml
-├── media (folder)
+|
 ├── src
 │   ├── icons (folder)
 │   ├── background (folder)
@@ -134,24 +133,19 @@ root
 │        ├── SetupData
 │        ├── Frame
 │        └── Main
-│
-├── .classpath
-├── .project
+|
+├── media (folder)
 ├── Report
 ├── UML Diagram
 ├── SlidePowerPoint
-├── .gitignore
-├── .travis.yml
-├── _config.yml
-├── emoji-key.md
-├── CODE_OF_CONDUCT
 ├── CONTRIBUTING
 └──  README.MD
 ```
 
-## 📝How to contribute to this project
-*Want to add your project to the repo?
-*You can contribute to this project very easily by following a few guidelines. Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... Now we are let's start.
+## 📝[How to contribute to this project](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
+*Want to add your project to the repo?*
+
+*Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... You can contribute to this project very easily by following a few guidelines. Now we are let's start.*
 
 #### a) Commit from local
 + Star this repository (Click the star button in the top right of this page)
@@ -162,7 +156,7 @@ git clone https://github.com/<your_username>/Snake-Game-OOP.git
 ```
 + Navigate to the project directory
 ```markdown
-cd Dope-Github-Readmes
+cd Snake-Game-OOP
 ```
 + Add a reference(remote) to the original repository.
 ```markdown
@@ -178,7 +172,7 @@ git pull upstream main
 ```
 + Create a new branch
 ```markdown
-git checkout -b <your branch-name>
+git checkout -b <your_branch-name>
 ```
 + Track your changes ✔. (The task is described below)
 ```markdown
@@ -192,19 +186,8 @@ git commit -m "Commit message"
 ```markdown
 git push -u origin <your_branch_name>
 ```
-+ To create a pull request, click on <code>Create Pull Request</code> (Click the New Pull Request button located at the top of your repo).
-+ Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-+ --> You have made a PR to this projects-showcase 💥 . 
-
-+ --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [here](https://github.com/thuongtruong1009/Snake-Game-OOP/CONTRIBUTING.md)
-
-+ --> Check at [CONTRIBUTING.md](CONTRIBUTING).
-
-+ Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) file to see more about guidelines...<br/>
-+ Stay safe & Keep contributing.
-
-#### b) Automatically nominate you to the list of collaborators
+#### b) [Automatically nominate you to the list of collaborators](CONTRIBUTING)
 <table>
   <h4>• Step 1 (star this repo):</h4>
   <tr>
@@ -232,6 +215,32 @@ git push -u origin <your_branch_name>
     <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/134617079-38d8385f-cd8b-418c-bdb2-8a084def24d3.png" width="600px;" alt=""/><br /><sub><b>Step 4</b></sub></a><br /></td>
   </tr>
 </table>
+
+#### c) [Finally](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
++ To create a pull request, click on `Create Pull Request` (Click the New Pull Request button located at the top of your repo).
++ Add appropriate title and description to your pull request explaining your changes and efforts done.
+
++ --> You have made a PR to this projects-showcase 💥 . 
+
++ --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [CONTRIBUTING](CONTRIBUTING)
++ Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) to see more about guidelines...<br/>
++ Stay safe & Keep contributing.
+
+## 🤝 [Join with me](https://github.com/thuongtruong1009)
++ #### Code together in the development to build perfect products.
++ #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
++ #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn)
+
+## 💻 References
++ Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
++ IDE or text-editor: [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ IDEA](https://www.jetbrains.com/idea/)...
++ Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java).
++ Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
++ Get support about Java language at [Oracle](https://oracle.org/java).
+
+## 📰 [License](LICENSE)
++ ##### This project is distributed under the [ECL-2.0 License](LICENSE).
++ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
       
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -260,24 +269,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## 🤝 Join with me
-+ #### Code together in the development to build perfect products.
-+ #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
-+ #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn)
-
-## 💻 References
-+ Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
-+ IDE or text-editor: [Visual Studio Code](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/download/index.html), [IntelliJ IDEA](https://www.jetbrains.com/idea/)...
-+ Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java).
-+ Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
-+ Get support about Java language at [Oracle](https://oracle.org/java).
-
-## 📰 License
-+ ##### This project is distributed under the [ECL-2.0 License](LICENSE).
-+ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
-
-## ❤️ Support me
-+ We are looking for sponsors to join us to have better community reach and impact.
+## ❤️ [Support me](https://www.paypal.me/thuongtruong1009)
+> We are looking for sponsors to join us to have better community reach and impact.
 
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
 <a href="https://www.paypal.me/thuongtruong1009">
