@@ -132,7 +132,7 @@ root
 ├── UML Diagram
 ├── SlidePowerPoint
 ├── CONTRIBUTING
-└──  README.MD
+└── README.MD
 ```
 
 ## 📝[How to contribute to this project](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
@@ -217,7 +217,7 @@ git push -u origin <your_branch_name>
 
 + --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [CONTRIBUTING](CONTRIBUTING)
 + Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) to see more about guidelines...<br/>
-+ Stay safe & Keep contributing.
++ Stay safe & keep contributing.
 
 ## 🤝 [Join with me](https://github.com/thuongtruong1009)
 + #### Code together in the development to build perfect products.
