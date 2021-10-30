@@ -80,10 +80,10 @@
 + Easily for manage the project progression.
 ```
 root
-├── circleci (folder)
+├── circleci
 │    └── config.yml
 |
-├── .github (folder)
+├── .github
 |    ├── workflows (folder)
 |    └── FUNDING.yml
 |
@@ -94,17 +94,17 @@ root
 │   ├── images (folder)
 │   ├── musics (folder)
 │   │
-│   ├── utils (folder)
+│   ├── utils
 │   │    ├── version
 │   │    ├── refer
 │   │    └── DataType
 │   │
-│   ├── root (folder)
+│   ├── root
 │   │    ├── ArrowKey
 │   │    ├── ISnake
 │   │    └── Root
 │   │
-│   ├── files (folder)
+│   ├── files
 │   │    ├── Read
 │   │    ├── Write
 │   │    ├── Item
@@ -114,12 +114,12 @@ root
 │   │    ├── writeData
 │   │    └── dataScore
 │   │
-│   ├── testing (folder)
+│   ├── testing
 │   │    ├── testPanel
 │   │    ├── testCustomerPane
 │   │    └── testMediaLoader
 │   │
-│   └── thuongtruong1009 (folder)
+│   └── thuongtruong1009
 │        ├── GamePanel
 │        ├── CustomerPane
 │        ├── mediaLoader
@@ -127,10 +127,10 @@ root
 │        ├── Frame
 │        └── Main
 |
-├── media (folder)
-├── Report
+├── Media ScreenShots (folder)
+├── Reported Speech
 ├── UML Diagram
-├── SlidePowerPoint
+├── Slide PowerPoint
 ├── CONTRIBUTING
 └── README.MD
 ```
@@ -184,13 +184,13 @@ git push -u origin <your_branch_name>
 <table>
   <h4>• Step 1 (star this repo):</h4>
   <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136375747-bd413b21-5dd2-455a-a53f-a689b5720e81.png" width="600px;" alt=""/><br /><sub><b>Step 1</b></sub></a><br /></td>
+    <td align="center"><a><img src="./media/step1.jpg" width="600px;" alt=""/><br /><sub><b>Step 1</b></sub></a><br /></td>
   </tr>
 </table>
 <table>
   <h4>• Step 2 (Add your information at CONTRIBUTING.md file):</h4>
   <tr>
-    <td align="center"><a><img src="https://user-images.githubusercontent.com/71834167/136376125-58c07ac8-17c6-45f6-a7a0-7934934b2e00.png" width="600px;" alt=""/><br /><sub><b>Step 2</b></sub></a><br /></td>
+    <td align="center"><a><img src="./media/step2.png" width="600px;" alt=""/><br /><sub><b>Step 2</b></sub></a><br /></td>
   </tr>
 </table>
 <table>
