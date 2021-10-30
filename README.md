@@ -39,7 +39,7 @@
 + Java Core 8 and Java Swing basic.
 + Function, loop, algorithms, implement, extend, Thread in Java.
 + UML diagram in programming.
-+ Design pattern (although it hasn't really been applied completely, but overall I'm trying to make it happen)
++ Design pattern (although it hasn't really been applied completely, but overall I'm trying to make it happen).
 + Refferent on StackOverflow and Youtube BroCode chanel.
 + Thank you [@TP-O](https://github.com/TP-O) supported us in this project.
 
@@ -141,9 +141,9 @@ root
 *Don't worry... there is no need to know any programming language-related knowledge. You only have to know the Git and GitHub, and that's it... You can contribute to this project very easily by following a few guidelines. Now we are let's start.*
 
 #### a) Commit from local
-+ Star this repository (Click the star button in the top right of this page)
-+ Fork this repository (Click the Fork button in the top right of this page, after click to your profile image)
-+ Clone your forked copy down to your local machine
++ Star this repository (Click the star button in the top right of this page).
++ Fork this repository (Click the Fork button in the top right of this page, after click to your profile image).
++ Clone your forked copy down to your local machine.
 ```markdown
 git clone https://github.com/<your_username>/Snake-Game-OOP.git
 ```
@@ -215,14 +215,14 @@ git push -u origin <your_branch_name>
 
 + --> You have made a PR to this projects-showcase 💥 . 
 
-+ --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [CONTRIBUTING](CONTRIBUTING)
++ --> 💌 Wait a few times for your submission to be accepted, if your PR will be reviewed and merged approval, then you will be added on list contributors. See at [CONTRIBUTING](CONTRIBUTING).
 + Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) to see more about guidelines...<br/>
 + Stay safe & keep contributing.
 
 ## 🤝 [Join with me](https://github.com/thuongtruong1009)
 + #### Code together in the development to build perfect products.
 + #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
-+ #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn)
++ #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn).
 
 ## 💻 References
 + Snake image at [here](https://i0.wp.com/petamind.com/wp-content/uploads/2019/10/snake_game.png?fit=400%2C267&ssl=1).
@@ -230,7 +230,7 @@ git push -u origin <your_branch_name>
 + Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java).
 + Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
 + Get support about Java language at [Oracle](https://oracle.org/java).
-+ Following the version updates at [build](https://github.com/thuongtruong1009/Snake-Game-OOP/projects)
++ Following the version updates at [build](https://github.com/thuongtruong1009/Snake-Game-OOP/projects).
 
 ## 📰 [License](LICENSE)
 + ##### This project is distributed under the [ECL-2.0 License](LICENSE).
