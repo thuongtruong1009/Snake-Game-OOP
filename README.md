@@ -230,6 +230,7 @@ git push -u origin <your_branch_name>
 + Java runtime enviroments installed. Refer at [Oracle](https://oracle.org/java).
 + Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
 + Get support about Java language at [Oracle](https://oracle.org/java).
++ Following the version updates at [build](https://github.com/thuongtruong1009/Snake-Game-OOP/projects)
 
 ## 📰 [License](LICENSE)
 + ##### This project is distributed under the [ECL-2.0 License](LICENSE).
