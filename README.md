@@ -71,7 +71,7 @@
 | UP | DOWN | LEFT | RIGHT |
 
 * Experience the beautiful interface and attractive sound.
-* f you over the game. Please press the start new button to start playing again or press the red x button to exit.
+* If you over the game. Please press the start new button to start playing again or press the red x button to exit.
 
 ## 📁 Management folder structure
 + Benefits: Scope, Clarity, Collaboration, Consistency.
@@ -219,7 +219,7 @@ git push -u origin <your_branch_name>
 + Visit the [CODE_OF_CONDUCT](CODE_OF_CONDUCT) to see more about guidelines...<br/>
 + Stay safe & keep contributing.
 
-## 🤝 [Join with me](https://github.com/thuongtruong1009)
+## 🤝 Join with me
 + #### Code together in the development to build perfect products.
 + #### You can fork/download/star/discuss/make issues/create PRs in them to develop. It can save it on release history.
 + #### Any problem, should contact me via [email](mailto:ititiu19228@student.hcmiu.edu.vn).
