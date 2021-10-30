@@ -85,13 +85,6 @@ root
 |
 ├── .github (folder)
 |    ├── workflows (folder)
-│    |     ├── ant.yml
-│    |     ├── ci.yml
-│    |     ├── jobs.yml
-│    |     ├── matrix.yml
-│    |     ├── yetanother.yml
-│    |     ├── greetings.yml
-│    |     └── config.yml
 |    └── config.yml
 |
 ├── src
