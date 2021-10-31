@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
@@ -237,6 +237,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/wpolanco"><img src="https://avatars.githubusercontent.com/u/4671672?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wpolanco</b></sub></a><br /><a href="#ideas-wpolanco" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-wpolanco" title="Accessibility">️️️️♿️</a></td>
+    <td align="center"><a href="https://github.com/Sanjulata19"><img src="https://avatars.githubusercontent.com/u/93475284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanjulata19</b></sub></a><br /><a href="#ideas-Sanjulata19" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-Sanjulata19" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
