@@ -7,6 +7,7 @@
 | 4 | Hoàng Thanh Tùng | [Hoàng Thanh Tùng](https://github.com/tung01673641696) | disscuss, PR |
 | 5 | Raydelto Hernandez | [Raydelto Hernandez](https://github.com/raydelto) | PR, commit, bug, code |
 | 6 | wpolanco | [wpolanco](https://github.com/wpolanco) | a11y, PR, ideas |
+| 7 | Sanjulata19 | [Sanjulata19](https://github.com/Sanjulata19) | PR |
 
 #### Congratulating for you has been added to contributors badge list.
 #### Thanks all for your contributing 😀
