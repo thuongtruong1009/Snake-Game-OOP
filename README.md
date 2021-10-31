@@ -259,4 +259,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📰 [License](LICENSE)
 + ##### This project is distributed under the [ECL-2.0 License](LICENSE).
-+ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
++ ##### Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
