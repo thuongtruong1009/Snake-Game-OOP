@@ -217,10 +217,6 @@ git push -u origin <your_branch_name>
 + Learning front-end web full course at [front-end course](https://github.com/thuongtruong1009/challenge-resposive-web-design-in-300hrs).
 + Get support about Java language at [Oracle](https://oracle.org/java).
 + Following the version updates at [build](https://github.com/thuongtruong1009/Snake-Game-OOP/projects).
-
-## 📰 [License](LICENSE)
-+ ##### This project is distributed under the [ECL-2.0 License](LICENSE).
-+ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
       
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -260,4 +256,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <a href='https://ko-fi.com/thuongtruong1009' target='_blank'>
   <img height='25' style='border:0px;height:28px;color:blue' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
-Copyright on @2021 by [thuongtruong1009](https://github.com/thuongtruong1009)
+
+## 📰 [License](LICENSE)
++ ##### This project is distributed under the [ECL-2.0 License](LICENSE).
++ ##### @Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2021.
