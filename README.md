@@ -80,59 +80,45 @@
 + Easily for manage the project progression.
 ```
 root
-├── circleci
-│    └── config.yml
-|
-├── .github
-|    ├── workflows (folder)
-|    └── FUNDING.yml
-|
-├── src
-│   ├── icons (folder)
-│   ├── background (folder)
-│   ├── buttons (folder)
-│   ├── images (folder)
-│   ├── musics (folder)
-│   │
-│   ├── utils
-│   │    ├── version
-│   │    ├── refer
-│   │    └── DataType
-│   │
-│   ├── root
-│   │    ├── ArrowKey
-│   │    ├── ISnake
-│   │    └── Root
-│   │
-│   ├── files
-│   │    ├── Read
-│   │    ├── Write
-│   │    ├── Item
-│   │    ├── DownLoad
-│   │    ├── ImageResizer
-│   │    ├── licenseText
-│   │    ├── writeData
-│   │    └── dataScore
-│   │
-│   ├── testing
-│   │    ├── testPanel
-│   │    ├── testCustomerPane
-│   │    └── testMediaLoader
-│   │
-│   └── thuongtruong1009
-│        ├── GamePanel
-│        ├── CustomerPane
-│        ├── mediaLoader
-│        ├── SetupData
-│        ├── Frame
-│        └── Main
-|
-├── Media ScreenShots (folder)
-├── Reported Speech
-├── UML Diagram
-├── Slide PowerPoint
-├── CONTRIBUTING
-└── README.MD
+├──────────────────────────────────── src
+├── circleci                           ├── icons (folder)
+│    └── config.yml                    ├── background (folder)
+|                                      ├── buttons (folder)
+├── .github                            ├── images (folder)
+|    ├── workflows (folder)            ├── musics (folder)
+|    └── FUNDING.yml                   │
+|                                      ├── utils
+├── ScreenShots (folder)               │    ├── version
+├── Reported Speech                    │    ├── refer
+├── UML Diagram                        │    ├── ImageResizer
+├── Slide PowerPoint                   │    └── DataType
+├── CONTRIBUTING                       │
+└── README.MD                          ├── root
+                                       │    ├── ArrowKey
+                                       │    ├── ISnake
+                                       │    └── Root
+                                       │
+                                       ├── files
+                                       │    ├── Read
+                                       │    ├── Write
+                                       │    ├── Item
+                                       │    ├── DownLoad
+                                       │    ├── licenseText
+                                       │    ├── writeData
+                                       │    └── dataScore
+                                       │
+                                       ├── testing
+                                       │    ├── testPanel
+                                       │    ├── testCustomerPane
+                                       │    └── testMediaLoader
+                                       │
+                                       └── thuongtruong1009
+                                            ├── GamePanel
+                                            ├── CustomerPane
+                                            ├── mediaLoader
+                                            ├── SetupData
+                                            ├── Frame
+                                            └── Main
 ```
 
 ## 📝[How to contribute to this project](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
@@ -263,6 +249,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+---
 ## ❤️ [Support me](https://www.paypal.me/thuongtruong1009)
 > We are looking for sponsors to join us to have better community reach and impact.
 
@@ -270,6 +257,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <a href="https://www.paypal.me/thuongtruong1009">
   <img height="25" marginTop="10" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Blue/Short.png">
 </a>
-<a href='https://ko-fi.com/thuongtruong1009' target='_blank'><img height='25' style='border:0px;height:28px;color:blue' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  
-### 💝 Thank you!__________________________________________________________________________
+<a href='https://ko-fi.com/thuongtruong1009' target='_blank'>
+  <img height='25' style='border:0px;height:28px;color:blue' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+Copyright on @2021 by [thuongtruong1009](https://github.com/thuongtruong1009)
