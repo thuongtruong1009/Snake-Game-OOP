@@ -1,3 +1,5 @@
+# This is a snake game made with Python Tkinter Library.
+
 #!/usr/bin/python
 
 # Simple button demo.
@@ -58,3 +60,5 @@ but = Button(fr, text="Find", background=bgcolor, activebackground=actbgcolor,
 but.grid(row=2, column=1, sticky='news')
 
 root.mainloop()
+
+# End of the program
