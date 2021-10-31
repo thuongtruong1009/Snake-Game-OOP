@@ -19,14 +19,6 @@
 
 ## 🎴 What's the snake game
 * Snake is a game in which the players need to think about controlling snake to explore an map and catch the appples and handle the situation to avoid hitting with the any obstacle or itself.
-* Every time the snake catches an apple, its size increases and score of user will also be added 1 point.
-* If the snake hits its tail or a wall, the game will be ended.
-
-| Action | Reward |
-|---|---|
-| Catch the apple | + 1 |
-| Hits bomb | - 1 |
-| Hits tail or wall | game-over |
 
 ## 📌 First require
 + The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 3 week.
@@ -69,6 +61,15 @@
 | <code>↑</code> | <code>↓</code> | <code>←</code> | <code>→</code> |
 | -- | ---- | ---- | ----- |
 | UP | DOWN | LEFT | RIGHT |
+
+* Every time the snake catches an apple, its size increases and score of user will also be added 1 point.
+* If the snake hits its tail or a wall, the game will be ended.
+
+| Action | Reward |
+|---|---|
+| Catch the apple | + 1 |
+| Hits bomb | - 1 |
+| Hits tail or wall | game-over |
 
 * Experience the beautiful interface and attractive sound.
 * If you over the game. Please press the start new button to start playing again or press the red x button to exit.
