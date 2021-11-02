@@ -47,9 +47,13 @@
 
 ## 📸 How it looks
 <div align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/71834167/133916235-1af65ce2-a33d-4bb5-b881-4592fc630c20.png" />
-  <img width="300" src="https://user-images.githubusercontent.com/71834167/133916023-014a0c9e-3ec6-41c3-b2a4-c150700a3a3b.png" alt="playing_image" />
-  <img width="300" src="https://user-images.githubusercontent.com/71834167/133916125-be5fe379-e608-4b53-a9dd-4d7bc5547d57.png" alt="game_over" />
+  <img width="600" src="./media/intro.jpg" alt="intro" />
+  <img width="600" src="./media/playing.jpg"alt="playing" />
+  <img width="300" src="./media/about.jpg" alt="about" />
+  <img width="300" src="./media/donate.jpg" alt="donate" />
+  <img width="600" src="./media/history.jpg" alt="history" />
+  <img width="300" src="./media/download.jpg" alt="download" />
+  <img width="300" src="./media/alert.jpg" alt="alert" />
 </div>
 
 ## ⚔ How to play this game
