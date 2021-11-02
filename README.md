@@ -25,7 +25,8 @@
 + Make report speech format in docx or pdf.
 + Have PowperPoint presentation slides.
 + Show detail diagram of project structure.
-+ I sometimes make refer on the internet but they seem like very difficult. 
++ I sometimes make refer on the internet but they seem like very difficult.
++ Now, i am enhancing update code for better. Let wait...
 
 ## 🎨 We used
 + Java Core 8 and Java Swing basic.
