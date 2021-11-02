@@ -85,45 +85,41 @@
 + Easily for manage the project progression.
 ```
 root
-├──────────────────────────────────── src
-├── circleci                           ├── icons (folder)
-│    └── config.yml                    ├── background (folder)
-|                                      ├── buttons (folder)
-├── .github                            ├── images (folder)
-|    ├── workflows (folder)            ├── musics (folder)
-|    └── FUNDING.yml                   │
-|                                      ├── utils
-├── ScreenShots (folder)               │    ├── version
-├── Reported Speech                    │    ├── refer
-├── UML Diagram                        │    ├── ImageResizer
-├── Slide PowerPoint                   │    └── DataType
-├── CONTRIBUTING                       │
-└── README.MD                          ├── root
-                                       │    ├── ArrowKey
-                                       │    ├── ISnake
-                                       │    └── Root
-                                       │
-                                       ├── files
-                                       │    ├── Read
-                                       │    ├── Write
-                                       │    ├── Item
-                                       │    ├── DownLoad
-                                       │    ├── licenseText
-                                       │    ├── writeData
-                                       │    └── dataScore
-                                       │
-                                       ├── testing
-                                       │    ├── testPanel
-                                       │    ├── testCustomerPane
-                                       │    └── testMediaLoader
-                                       │
-                                       └── thuongtruong1009
-                                            ├── GamePanel
-                                            ├── CustomerPane
-                                            ├── mediaLoader
-                                            ├── SetupData
-                                            ├── Frame
-                                            └── Main
+├────────────────────────────────── src
+├── circleci                         ├───────────────────────────────|
+│    └── config.yml                  ├── utils                       ├── icons (folder)
+|                                    │    ├── version                ├── background (folder)
+├── .github                          │    ├── refer                  ├── buttons (folder)
+|    ├── workflows (folder)          │    ├── ImageResizer           ├── images (folder)
+|    └── FUNDING.yml                 │    └── DataType               └── musics (folder)
+|                                    |
+├── ScreenShots (folder)             ├── root
+├── Reported Speech                  │    ├── ArrowKey
+├── UML Diagram                      │    ├── ISnake
+├── Slide PowerPoint                 │    └── Root
+├── CONTRIBUTING                     |
+└── README.MD                        ├── files
+                                     │    ├── Read
+                                     │    ├── Write
+                                     │    ├── Item
+                                     │    ├── DownLoad
+                                     │    ├── licenseText
+                                     │    ├── writeData
+                                     │    └── dataScore
+                                     |
+                                     ├── testing
+                                     │    ├── testPanel
+                                     │    ├── testCustomerPane
+                                     │    └── testMediaLoader
+                                     |
+                                     └── thuongtruong1009
+                                          ├── GamePanel
+                                          ├── CustomerPane
+                                          ├── mediaLoader
+                                          ├── SetupData
+                                          ├── Frame
+                                          └── Main
+                                           
 ```
 
 ## 📝[How to contribute to this project](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
