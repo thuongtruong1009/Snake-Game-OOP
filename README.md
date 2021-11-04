@@ -87,9 +87,9 @@
 ```
 root
 ├────────────────────────────────── src
-├── circleci                         ├───────────────────────────────|
+├── .circleci                        ├───────────────────────────────|
 │    └── config.yml                  ├── utils                       ├── icons (folder)
-|                                    │    ├── version                ├── background (folder)
+|                                    │    ├── deviceInfo             ├── background (folder)
 ├── .github                          │    ├── refer                  ├── buttons (folder)
 |    ├── workflows (folder)          │    ├── ImageResizer           ├── images (folder)
 |    └── FUNDING.yml                 │    └── DataType               └── musics (folder)
@@ -114,6 +114,7 @@ root
                                      │    └── testMediaLoader
                                      |
                                      └── thuongtruong1009
+                                          ├── version
                                           ├── GamePanel
                                           ├── CustomerPane
                                           ├── mediaLoader
