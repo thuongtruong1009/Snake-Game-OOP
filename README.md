@@ -18,7 +18,7 @@
 </div>
 
 ## 🎴 What's the snake game
-* Snake is a game in which the players need to think about controlling snake to explore an map and catch the appples and handle the situation to avoid hitting with the any obstacle or itself.
+* Snake is a game in which the players need to think about controlling snake to explore an map and catch the appples and handle the situation to avoid hitting with the any obstacle or itself. They will compete against each other with points and time after each match.
 
 ## 📌 First require
 + The final project on labory in my school. It request is use any language programming to make a game or application. My team have 2 student and we try hard to complete them in 3 week.
@@ -30,6 +30,7 @@
 
 ## 🎨 We used
 + Java Core 8 and Java Swing basic.
++ Buffer, Builder and Socket I/O in Java API.
 + Function, loop, algorithms, implement, extend, Thread in Java.
 + UML diagram in programming.
 + Design pattern (although it hasn't really been applied completely, but overall I'm trying to make it happen).
@@ -43,7 +44,14 @@
 + An overview of Design patterns and their operation diagrams.
 + Using the UML diagram to analys codes and information processing.
 + Understand how multithreading works and manage it.
-+ Improve your skills to resolve the problems in programming.
++ Take advantage of the I/O mechanism to download files to local and open URL on broswer.
++ Learn about system manipulation with Buffer and Builder in Java.
++ Get familiar with Socket I/O by displaying source device address information.
++ Manipulating arrays, strings, and algorithm structures.
++ Skills in selecting, processing images and sounds to suit the project.
++ Expanding programming thinking and improve your skills to resolve the problems through the game.
++ Practice writing reports and summarizing project issues.
++ Good for programmers who are new to the Java language.
 + Practice and complete assignment Java OOP projects in a university lab.
 
 ## 📸 How it looks
