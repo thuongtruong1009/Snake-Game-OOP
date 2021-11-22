@@ -92,6 +92,16 @@
         "ideas",
         "mentoring"
       ]
+    },
+    {
+      "login": "Oopprojectgame",
+      "name": "Oop-team-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60429559?v=4",
+      "profile": "https://github.com/Oopprojectgame",
+      "contributions": [
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
