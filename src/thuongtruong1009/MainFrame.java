@@ -41,7 +41,7 @@ public class MainFrame extends JPanel {
 	@SuppressWarnings("static-access")
 	public MainFrame() {
 
-		ImageIcon image = new ImageIcon("./src/background2.jpg");
+		ImageIcon image = new ImageIcon("../image/background.jpg");
 		Image img = image.getImage();
 		Image temp_img = img.getScaledInstance(500, 235, Image.SCALE_SMOOTH);
 		image = new ImageIcon(temp_img);
