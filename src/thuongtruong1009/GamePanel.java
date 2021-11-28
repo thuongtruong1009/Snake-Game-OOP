@@ -48,7 +48,7 @@ public class GamePanel extends MainFrame implements ActionListener, MouseListene
 		this.addKeyListener(new MyKeyAdapter());
 		startGame();
 
-		music1 = ImageLoader.LoadSound("../music.wav");
+		music1 = ImageLoader.LoadSound("../music/music.wav");
 		music1.loop(Clip.LOOP_CONTINUOUSLY);
 	}
 
@@ -129,13 +129,13 @@ public class GamePanel extends MainFrame implements ActionListener, MouseListene
 			bodyParts++;
 			score++;
 			newApple();
-			music2 = ImageLoader.eatSound("../eat.wav");
+			music2 = ImageLoader.eatSound("../music/eat.wav");
 			music2.start();
 		}
 	}
 
 	public void checkCollisions() {
-		music3 = ImageLoader.eatSound("../gameOver.wav");
+		music3 = ImageLoader.eatSound("../music/gameOver.wav");
 		for (int i = bodyParts; i > 0; i--) {
 			if ((x[0] == x[i]) && (y[0] == y[i])) {
 				running = false;
@@ -179,8 +179,8 @@ public class GamePanel extends MainFrame implements ActionListener, MouseListene
 		g.drawString("Your score is: " + score, (WIDTH - metrics2.stringWidth("Your score is: ")) / 2,
 				(HEIGHT / 3) + 2 * UNIT_SIZE);
 
-		clickLabelImage("./src/restartButton.png", 170, 100);
-		clickLabelImage("./src/quitButton.png", 100, 50);
+		clickLabelImage("../image/restartButton.png", 170, 100);
+		clickLabelImage("../image/quitButton.png", 100, 50);
 	}
 
 	public void clickLabelImage(String url, int LABEL_WIDTH, int LABEL_HEIGHT) {
@@ -191,14 +191,14 @@ public class GamePanel extends MainFrame implements ActionListener, MouseListene
 
 		JLabel label = new JLabel("", image, JLabel.CENTER);
 		this.add(label, BorderLayout.CENTER);
-		if (url == "./src/restartButton.png") {
+		if (url == "../image/restartButton.png") {
 			label.setBounds(WIDTH / 2 - LABEL_WIDTH / 2, 3 * HEIGHT / 5, LABEL_WIDTH, LABEL_HEIGHT);
 			label.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(MouseEvent e) {
 					new SetupData();
 				}
 			});
-		} else if (url == "./src/quitButton.png") {
+		} else if (url == "../image/quitButton.png") {
 			label.setBounds(WIDTH / 2 - LABEL_WIDTH / 2, 3 * HEIGHT / 5 + 2 * LABEL_HEIGHT, LABEL_WIDTH, LABEL_HEIGHT);
 			label.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(MouseEvent e) {
