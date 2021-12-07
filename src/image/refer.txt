@@ -1,0 +1,14 @@
+bug: https://icon-icons.com/download/9156/PNG/32/
+contact: https://icon-icons.com/icon/add-contact-twitter-user/127131
+help: https://icon-icons.com/download/14267/PNG/32/
+easy: https://icon-icons.com/download/35019/PNG/32/
+medium: https://icon-icons.com/download/34935/PNG/32/
+difficult: https://icon-icons.com/download/35026/PNG/32/
+quit: https://icon-icons.com/download/106118/PNG/32/
+license: https://icon-icons.com/download/35763/PNG/32/
+file: https://icon-icons.com/download/106991/PNG/32/
+new game: https://icon-icons.com/download/13225/PNG/32/
+level: https://icon-icons.com/download/83772/PNG/32/
+level2: https://icon-icons.com/download/102343/PNG/32/
+more: https://icon-icons.com/download/79906/PNG/32/
+more2: https://icon-icons.com/download/81375/PNG/32/
