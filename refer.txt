@@ -1,0 +1,3 @@
+background.png: https://i3.ytimg.com/vi/UpGCxdTXfSY/hqdefault.jpg
+background2.jpg : https://image.winudf.com/v2/image1/Y29tLnN5bHBoYm94LmNsYXNzaWMuc25ha2Vfc2NyZWVuXzBfMTYwMjUwNzU0NF8wNjA/screen-0.jpg?fakeurl=1&type=.jpg
+java: https://www.oracle.com/a/tech/img/rc10-java-badge-3.png

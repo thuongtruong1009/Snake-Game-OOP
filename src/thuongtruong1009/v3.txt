@@ -1,0 +1,6 @@
+fix snake tail
+add background slide show effect by time in Frame
+insert icon side by side Menu items
+save high score archived
+using root element to reuse variable
+factor code reuse and update UI/UX
