@@ -1,0 +1,25 @@
+bug: https://icon-icons.com/download/9156/PNG/32/
+contact: https://icon-icons.com/download/133230/PNG/32/
+easy: https://icon-icons.com/download/35019/PNG/32/
+medium: https://icon-icons.com/download/34935/PNG/32/
+difficult: https://icon-icons.com/download/35026/PNG/32/
+quit: https://icon-icons.com/download/106118/PNG/32/
+license: https://icon-icons.com/download/131800/PNG/32/
+file: https://icon-icons.com/download/106991/PNG/32/
+new game: https://icon-icons.com/download/13225/PNG/32/
+more: https://icon-icons.com/download/83381/PNG/512/
+level: https://icon-icons.com/download/68889/PNG/512/
+how_to_play: https://icon-icons.com/download/57245/PNG/32/
+help: https://icon-icons.com/download/14267/PNG/128/
+fork: https://icon-icons.com/icon/git-plain-logo/146507
+discuss: https://icons.iconarchive.com/icons/aha-soft/business-toolbar/48/conference-icon.png
+about: https://icon-icons.com/icon/gui-about/157266
+download: https://icon-icons.com/icon/download/72015
+volume: https://cdn.icon-icons.com/icons2/1152/PNG/128/1486506275-high-loud-music-on-sound-speaker-volume_81461.png
+mute: https://icon-icons.com/download/81465/PNG/512/
+apple red: https://icon-icons.com/icon/fruit-apple-food/1314
+apple green: https://icon-icons.com/icon/fruit-apple-food/1315
+apple red 2: https://icon-icons.com/icon/apple-fruit-food/148896
+
+convert all to 16px by
+resize image: https://www.iloveimg.com/vi/thay-doi-kich-thuoc-anh/kich-thuoc-anh-png#resize-options,pixels
