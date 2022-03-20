@@ -1,0 +1,6 @@
+theme1: https://www.youtube.com/watch?v=tUcaD3yiqEY
+ended game (03): https://www.youtube.com/watch?v=Hyftqc7-wDg
+bomb: https://mixkit.co/free-sound-effects/bomb/
+click: https://mixkit.co/free-sound-effects/click/
+intro: https://mixkit.co/free-stock-music/tag/intro/
+fail: https://www.youtube.com/watch?v=0lhhrUuw2N8
