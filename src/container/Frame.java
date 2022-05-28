@@ -1,22 +1,17 @@
 package container;
 
-import root.Root;
-
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Desktop;
-import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 
-import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -25,80 +20,71 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
-import javax.swing.ScrollPaneConstants;
 import javax.swing.Timer;
+
+import files.Read;
+import files.Write;
+import root.Root;
+
 /**
- * @author https://www.github.com/thuongtruong1009
+ * @author https://www.github.com/thuongtruong1009/Snake-Game-OOP
  */
 public class Frame extends JPanel {
-	JFrame frame= new JFrame();
-	JPanel panel= new JPanel();
+	JFrame frame = new JFrame();
+	JPanel panel = new JPanel();
 	private static final long serialVersionUID = 1L;
-	static int DELAY=100;
+	public static int DELAY = 100;
+	public static int SPEED = 1;
 	Timer timer;
 	Root root = new Root();
-	
+
 	JLabel pic;
-    Timer tm;
-    int x = 0;
-    
-	
+	Timer tm;
+	int x = 0;
+
 	@SuppressWarnings("static-access")
-	public Frame()  {
-        pic = new JLabel();
-        pic.setBounds(0, 0, 500, 235);
+	public Frame() {
+		//GamePanel.getSound(root.outroSound);
 
-        //Call The Function SetImageSize
-        SetImageSize(5);
-               //set a timer
-        tm = new Timer(1000,new ActionListener() {
+		pic = new JLabel();
+		pic.setBounds(0, 0, 500, 235);
 
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                SetImageSize(x);
-                x += 1;
-                if(x >= root.list.length )
-                    x = 0; 
-            }
-        });
-        panel.add(pic, BorderLayout.CENTER);
+		// Call The Function SetImageSize
+		SetImageSize(5);
+		tm = new Timer(1000, new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				SetImageSize(x);
+				x += 1;
+				if (x >= root.list.length)
+					x = 0;
+			}
+		});
+		panel.add(pic, BorderLayout.CENTER);
 		panel.setLayout(new FlowLayout());
 		tm.start();
-//		
-//		ImageIcon image= new ImageIcon("./src/backgrounds/background2.jpg");
-//		Image img= image.getImage();
-//		Image temp_img= img.getScaledInstance(500, 235, Image.SCALE_SMOOTH);
-//		image= new ImageIcon(temp_img);
-//		
-//		JLabel background= new JLabel("", image, JLabel.CENTER);
-//		background.setBounds(0, 0, 500, 300);
-//		panel.add(background, BorderLayout.CENTER);
 
-		JMenuBar menubar= new JMenuBar();
+		// ImageIcon image= new ImageIcon("./src/backgrounds/background2.jpg");
+		// Image img= image.getImage();
+		// Image temp_img= img.getScaledInstance(500, 235, Image.SCALE_SMOOTH);
+		// image= new ImageIcon(temp_img);
+		//
+		// JLabel background= new JLabel("", image, JLabel.CENTER);
+		// background.setBounds(0, 0, 500, 300);
+		// panel.add(background, BorderLayout.CENTER);
+
+		JMenuBar menubar = new JMenuBar();
 		frame.add(menubar, BorderLayout.NORTH);
-		
-		//menu1
+
+		// menu1
 		JMenu fileMenu = new JMenu("File");
 		fileMenu.setMnemonic(KeyEvent.VK_F);
 		fileMenu.addSeparator();
+		fileMenu.setIcon(root.fileMenu);
 		menubar.add(fileMenu);
-		
-		JMenuItem scoreItem= new JMenuItem("History score", root.ic1);
-		fileMenu.add(scoreItem);
-		scoreItem.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				try {
-					readFile("./src/high_score.txt", "history");
-				} catch (IOException e1) {
-					e1.printStackTrace();
-				}
-			}
-		});
-		
-		JMenuItem newGameItem= new JMenuItem("New Game", root.ic2);
+
+		JMenuItem newGameItem = new JMenuItem("New Game", root.ic2);
 		fileMenu.add(newGameItem);
 		newGameItem.addActionListener(new ActionListener() {
 			@Override
@@ -106,8 +92,25 @@ public class Frame extends JPanel {
 				new SetupData();
 			}
 		});
-		
-		JMenuItem exitItem= new JMenuItem("Quit", root.ic3);
+
+		JMenuItem scoreItem = new JMenuItem("History", root.ic1);
+		fileMenu.add(scoreItem);
+		scoreItem.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// delete content after read file
+				CustomerPane.deleteContent(Read.fileURL);
+				Read r = new Read();
+				r.readInfor(Write.fileData);
+				try {
+					CustomerPane.readFile(root.scorePath, root.scoreTitle, 750, 350);
+				} catch (IOException e1) {
+					e1.printStackTrace();
+				}
+			}
+		});
+
+		JMenuItem exitItem = new JMenuItem("Quit", root.ic3);
 		fileMenu.add(exitItem);
 		exitItem.addActionListener(new ActionListener() {
 			@Override
@@ -116,36 +119,48 @@ public class Frame extends JPanel {
 			}
 		});
 
-		//menu2
-		JMenu levelMenu= new JMenu("Level");
+		// menu2
+		JMenu levelMenu = new JMenu("Level");
 		levelMenu.setMnemonic(KeyEvent.VK_L);
 		levelMenu.addSeparator();
+		levelMenu.setIcon(root.levelMenu);
 		menubar.add(levelMenu);
-		
-		JMenuItem[] menuItem2= new JMenuItem[3];
-		String[] array= {"Easy", "Medium", "Difficult"};
-		
-		for(int i= 0 ; i<3 ; i++) {				
-				int level = i + 1;
-				ImageIcon ii = new ImageIcon(root.array2[i]);
-				menuItem2[i]= new JMenuItem(array[i] + " (" + level + ")", ii);
-				menuItem2[i].addActionListener(new ActionListener() {
-					@Override
-					public void actionPerformed(ActionEvent e) {	
-						//menuItem2[i].setBackground(Color.green);
-						DELAY = 100 - 20*level;
-					}
-				});
-				levelMenu.add(menuItem2[i]);
+
+		JMenuItem[] menuItem2 = new JMenuItem[3];
+		String[] array = { "Easy", "Medium", "Difficult" };
+
+		for (int i = 0; i < 3; i++) {
+			int level = i + 1;
+			ImageIcon ii = new ImageIcon(root.array2[i]);
+			menuItem2[i] = new JMenuItem(array[i] + " (" + level + ")", ii);
+			menuItem2[i].addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					menuItem2[level - 1].setBackground(Color.GREEN);
+					DELAY = 100 - 20 * level;
+					SPEED = level;
+				}
+			});
+			levelMenu.add(menuItem2[i]);
 		}
-		
-		//menu3
-		JMenu referMenu= new JMenu("More");
+
+		// menu3
+		JMenu referMenu = new JMenu("More");
 		referMenu.setMnemonic(KeyEvent.VK_M);
 		referMenu.addSeparator();
+		referMenu.setIcon(root.moreMenu);
 		menubar.add(referMenu);
-		
-		JMenuItem discussItem= new JMenuItem("Discuss", root.icn1);
+
+		JMenuItem forkItem = new JMenuItem("Fork project", root.icn1);
+		referMenu.add(forkItem);
+		forkItem.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				openLink(root.fork);
+			}
+		});
+
+		JMenuItem discussItem = new JMenuItem("Discuss", root.icn2);
 		referMenu.add(discussItem);
 		discussItem.addActionListener(new ActionListener() {
 			@Override
@@ -153,21 +168,21 @@ public class Frame extends JPanel {
 				openLink(root.discuss);
 			}
 		});
-		
-		JMenuItem licenseItem= new JMenuItem("License", root.icn2);
+
+		JMenuItem licenseItem = new JMenuItem("License", root.icn3);
 		referMenu.add(licenseItem);
 		licenseItem.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				try {
-					readFile("./src/LICENSE.txt", "ECL-2.0 LICENSE");
+					CustomerPane.readFile(root.licensePath, root.licenseTitle + " - " + root.version, 570, 450);
 				} catch (IOException e1) {
 					e1.printStackTrace();
 				}
 			}
 		});
-		
-		JMenuItem contactItem= new JMenuItem("Contact", root.icn3);
+
+		JMenuItem contactItem = new JMenuItem("Contact", root.icn4);
 		referMenu.add(contactItem);
 		contactItem.addActionListener(new ActionListener() {
 			@Override
@@ -176,13 +191,14 @@ public class Frame extends JPanel {
 			}
 		});
 
-		//menu4
-		JMenu helpMenu= new JMenu("Help");
+		// menu4
+		JMenu helpMenu = new JMenu("Help");
 		helpMenu.setMnemonic(KeyEvent.VK_H);
 		helpMenu.addSeparator();
+		helpMenu.setIcon(root.helpMenu);
 		menubar.add(helpMenu);
-		
-		JMenuItem tutorialItem= new JMenuItem("How to play?", root.Icn1);
+
+		JMenuItem tutorialItem = new JMenuItem("How to play?", root.Icn1);
 		helpMenu.add(tutorialItem);
 		tutorialItem.addActionListener(new ActionListener() {
 			@Override
@@ -190,80 +206,69 @@ public class Frame extends JPanel {
 				openLink(root.how_to_play);
 			}
 		});
-		
-		JMenuItem reportItem= new JMenuItem("Report bugs", root.Icn2);
+
+		JMenuItem reportItem = new JMenuItem("Report bugs", root.Icn2);
 		helpMenu.add(reportItem);
 		reportItem.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				openLink(root.bug);
 			}
-		}); 
-		
+		});
+
 		JMenuItem donateItem = new JMenuItem("Donate", root.Icn3);
 		helpMenu.add(donateItem);
 		donateItem.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				try {
-					readFile("./src/LICENSE.txt", "ECL-2.0 LICENSE");
-				} catch (IOException e1) {
-					e1.printStackTrace();
-				}
+				CustomerPane.donateFrame();
 			}
 		});
-			
-		//frame
+		JMenuItem aboutItem = new JMenuItem("About", root.Icn4);
+		helpMenu.add(aboutItem);
+		aboutItem.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {	
+				JOptionPane.showMessageDialog(null, root.aboutDesc, root.aboutTitle, JOptionPane.INFORMATION_MESSAGE, root.Icn4);
+			}
+		});
+
+		// frame
 		frame.add(panel);
-		frame.setTitle("Snake Game OOP - v2.0");
+		frame.setTitle(root.frameTitle);
 		frame.setSize(500, 300);
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
-		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
+		frame.setDefaultCloseOperation(frame.DISPOSE_ON_CLOSE);
 		frame.setVisible(true);
 
 		Image imageIcon = root.icon.getImage();
 		frame.setIconImage(imageIcon);
 	}
-	
-	//create a function to resize the image 
-    public void SetImageSize(int i){
-        ImageIcon icon = new ImageIcon(root.list[i]);
-        Image img = icon.getImage();
-        Image newImg = img.getScaledInstance(pic.getWidth(), pic.getHeight(), Image.SCALE_SMOOTH);
-        ImageIcon newImc = new ImageIcon(newImg);
-        pic.setIcon(newImc);
-    }
-	
-	public static void readFile(String file, String name)throws IOException{
-	    BufferedReader br = new BufferedReader(new FileReader(file));
-	    String aLineFromFile = null;
-	    StringBuilder everything = new StringBuilder();
-	    while ((aLineFromFile = br.readLine()) != null){
-	    	everything.append(aLineFromFile + "\n");
-	    }
-	    JTextArea textArea = new JTextArea(everything.toString());
-	    textArea.setBorder(BorderFactory.createCompoundBorder(textArea.getBorder(), BorderFactory.createEmptyBorder(10, 10, 10, 0)));
-		JScrollPane scrollPane = new JScrollPane(textArea);
-		scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		scrollPane.setPreferredSize( new Dimension( 570, 450 ));
-		
-	    JOptionPane.showMessageDialog(null, scrollPane, name, JOptionPane.INFORMATION_MESSAGE);
-	    br.close();
-	    return;
-	}
-	
-	 public static void openLink(String uri) {
-			try {		
-				 Desktop.getDesktop().browse(new URI(uri));
-			} catch (IOException | URISyntaxException e) {
-			   e.printStackTrace();
-			}
-	  }
 
-	public void play() {	
+	// create a function to resize the image
+	public void SetImageSize(int i) {
+		ImageIcon icon = new ImageIcon(root.list[i]);
+		Image img = icon.getImage();
+		Image newImg = img.getScaledInstance(pic.getWidth(), pic.getHeight(), Image.SCALE_SMOOTH);
+		ImageIcon newImc = new ImageIcon(newImg);
+		pic.setIcon(newImc);
+	}
+
+	public static void openLink(String url) {
+		try {
+			Desktop.getDesktop().browse(new URI(url));
+		} catch (IOException | URISyntaxException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void play() {
 		System.out.println("The speed you choose is: " + DELAY);
 		timer = new Timer(DELAY, (ActionListener) this);
 		timer.start();
+	}
+	public static void main(String[] args) {
+				new Frame();
 	}
 }

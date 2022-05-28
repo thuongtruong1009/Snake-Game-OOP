@@ -1,1 +1,11 @@
 # target
+/bin/
+bin/*
+docs/*
+src/backgrounds/*
+src/buttons/*
+src/icons/*
+src/musics/*
+media/*
+.github/*
+.circleci/*
