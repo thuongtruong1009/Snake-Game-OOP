@@ -10,7 +10,7 @@
 | 7 | Raydelto Hernandez | [Raydelto Hernandez](https://github.com/raydelto) | PR, commit, bug, code |
 | 8 | wpolanco | [wpolanco](https://github.com/wpolanco) | a11y, PR, ideas |
 | 9 | Sanjulata19 | [Sanjulata19](https://github.com/Sanjulata19) | PR |
-| 10 | Thinhnho98 | [Thinhnho98](https://github.com/Oopprojectgame) | docs, explain |
+| 10 | Thinh-nho | [Thinh-nho](https://github.com/thinh-sine-nix) | docs, explain |
 
 #### Congratulating for you has been added to contributors badge list.
 #### Thanks all for your contributing 😀

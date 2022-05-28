@@ -9,8 +9,6 @@
 ![GitHub commit checks state](https://img.shields.io/github/checks-status/thuongtruong1009/Snake-Game-OOP/main)
 <img src="https://img.shields.io/badge/License-ECL 2.0-pink" onclick="https://github.com/thuongtruong1009/snake-game-oop/blob/main/LICENSE">
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thuongtruong1009/Snake-Game-OOP?color=87CEFA)
-![Lines of code](https://img.shields.io/tokei/lines/github/thuongtruong1009/Snake-Game-OOP?color=%236495ED)
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/thuongtruong1009/Snake-Game-OOP/discussions)
 
 <div align="center" display="flex">
   <h1>SNAKE GAME OOP <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_vertical_logo_icon_167857.png" /></h1>
@@ -102,11 +100,11 @@ root
 |    ├── workflows (folder)          │    ├── ImageResizer           ├── images (folder)
 |    └── FUNDING.yml                 │    └── DataType               └── musics (folder)
 |                                    |
-├── ScreenShots (folder)             ├── root
-├── Reported Speech                  │    ├── ArrowKey
+├── media (folder)                   ├── root
+├── docs                             │    ├── ArrowKey
 ├── UML Diagram                      │    ├── ISnake
-├── Slide PowerPoint                 │    └── Root
-├── CONTRIBUTING                     |
+├── dockerfile                       │    └── Root
+├── VISITOR                          |
 └── README.MD                        ├── files
                                      │    ├── Read
                                      │    ├── Write
@@ -121,8 +119,8 @@ root
                                      │    ├── testCustomerPane
                                      │    └── testMediaLoader
                                      |
-                                     └── thuongtruong1009
-                                          ├── version
+                                     └── container
+                                          ├── build.sh
                                           ├── GamePanel
                                           ├── CustomerPane
                                           ├── mediaLoader
@@ -130,6 +128,11 @@ root
                                           ├── Frame
                                           └── Main
                                            
+```
+
+## 🛢Build with Docker
+```script
+docker pull thuongtruong1009/snake-game-oop
 ```
 
 ## 📝[How to contribute to this project](https://github.com/thuongtruong1009/Snake-Game-OOP/pulls)
